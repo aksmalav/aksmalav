@@ -1,9 +1,9 @@
 # Hi, I'm Akshay 👋
 
-MBA candidate at Columbia Business School, working at the intersection of **healthcare, AI, and product**.
+MBA candidate at Columbia Business School. **I find broken processes and automate them away.**
 
-- 🏥 Spent my career in healthcare: strategy at ZS Associates, then product at three YC-backed startups
-- 🤖 Most recently PM at an agentic-AI healthcare startup, where I owned 17 automations at a health system, from user interviews to deployment ($3.8M annual impact)
-- 🛠️ Currently building: a personal website and a few small projects
+- 🔧 From forecasting at ZS Associates to three venture-backed startups, I've spent six years finding where work breaks down and building the fix
+- 🤖 Most recently the product lead on 17 AI automations at a health system, from user interviews to deployment ($3.8M annual impact)
+- 🎮 Built my personal site and a pixel-art career game with Claude: [aksmalav.github.io](https://aksmalav.github.io)
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/akshaymalavade)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/akshaymalavade/)
